@@ -1,0 +1,20 @@
+
+.place-order-button-cont {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.place-order-button {
+    padding: 10px;
+    text-align: center;
+    border: none;
+    color: white;
+    background-color: #6E9C9F;
+    cursor: pointer;
+}
+
+.place-order-button-link {
+    width: 100%;
+}

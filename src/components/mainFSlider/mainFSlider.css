@@ -1,0 +1,44 @@
+
+.main-f-sl {
+    width: 500px;
+    height: 500px;
+   
+}
+
+.slick-dots li {
+    height: 5px;
+    margin: 0px 12px;
+}
+
+.slick-dots {
+    bottom: auto;
+}
+
+.slider-f-dots {
+    background-color: #D1D1D1;
+}
+
+.slick-active .slider-f-dots  {
+background-color: black;
+}
+
+.slide-title {
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 110%;
+    width: 500px;
+}
+
+.slide-subtitle {
+    font-weight: 400;
+    font-size: 20px;
+    width: 380px;
+    line-height: 140%;
+    text-align: right;
+    margin-top: 40px;
+}
+
+.slide-button-to-magazine {
+  display: flex;
+  margin: 50px 0px 100px 90px;
+}

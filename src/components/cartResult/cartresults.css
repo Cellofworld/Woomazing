@@ -1,0 +1,20 @@
+
+
+.cart-results {
+    width: 20%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    padding: 15px 25px;
+    margin-top: 50px;
+}
+
+
+.cart-results-cont {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}

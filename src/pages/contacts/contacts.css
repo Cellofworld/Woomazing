@@ -1,0 +1,27 @@
+
+.contacts {
+    padding: var(--main-padding);
+}
+
+.contacts-title {
+    font-size: 55px;
+    margin-bottom: 200px;
+}
+
+.contacts-info {
+    display: flex;
+    margin-top: 130px;
+}
+
+.contacts-info-title {
+    font-size: 17px;
+}
+
+.contacts-info-d {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.contacts-email {
+    margin: 0px 110px;
+}

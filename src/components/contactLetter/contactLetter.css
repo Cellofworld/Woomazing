@@ -1,0 +1,51 @@
+
+
+.contact-letter {
+    width: 444px;
+    margin-top: 100px;
+}
+
+.contact-letter-title {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.letter-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-name,
+.contact-email,
+.contact-tel,
+textarea {
+    width: 300px;
+    height: 40px;
+    border: none;
+    font-size: 17px;
+    border-bottom: 1px solid black;
+}
+
+textarea {
+    width: 350px;
+    height: 130px;
+}
+
+
+input,
+textarea {
+    margin: 20px 0px;
+    outline: none;
+    resize: none;
+}
+
+.contact-button {
+    width: 190px;
+    height: 70px;
+    color: white;
+    background-color: #6E9C9F;
+    border: none;
+    font-size: 17px;
+    margin-top: 60px;
+    cursor: pointer;
+}

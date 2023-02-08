@@ -1,0 +1,26 @@
+
+
+.m-img-c {
+    width: 430px;
+    height: 700px;
+    text-align: end;
+}
+
+.i-f {
+    position: relative;
+    z-index: 1;
+}
+
+.i-s {
+    position: relative;
+   z-index: 2;
+   left: -333px;
+    top: -286px;
+}
+
+.i-t {
+    position: relative;
+z-index: 3;
+left: 320px;
+top: -624px;
+}

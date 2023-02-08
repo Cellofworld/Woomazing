@@ -1,0 +1,53 @@
+
+
+.footer {
+    background-color: #F1EADC;
+    padding: 50px 0px;
+}
+
+.footer-description {
+    padding:0px 100px;
+    display: flex;
+    justify-content: space-between  ;
+}
+
+.footer-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-media {
+    margin: 6px;
+    width: 22px;
+    height: 22px;
+}
+
+.autor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.pay-img {
+    margin-top: 20px;
+}
+
+.footer-navigation {
+    padding: var(--main-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-cal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-email {
+    margin-top: 6px;
+}

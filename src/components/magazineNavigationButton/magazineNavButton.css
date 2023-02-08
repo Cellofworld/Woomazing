@@ -1,0 +1,21 @@
+.mg-nv-btn {
+    width: 160px;
+    height: 50px;
+    margin-right: 15px;
+    background-color: white;
+}
+
+.mg-nv-btn:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.mg-nv-btn-active {
+    width: 160px;
+    height: 50px;
+    margin-right: 15px;
+    color: white;
+    background-color: black;
+} 

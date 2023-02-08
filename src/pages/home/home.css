@@ -1,0 +1,13 @@
+
+.m-home {
+    display: flex;
+    flex-direction: column;
+    padding: var(--main-padding);
+    
+}
+
+.m-f-home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

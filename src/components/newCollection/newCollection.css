@@ -1,0 +1,44 @@
+
+
+.new-col {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.new-col-title {
+    font-size: 40px;
+}
+
+.new-col-cards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+}
+
+.col-item-title {
+    margin-top: 24px;
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+    color: black;
+}
+
+.col-item-price-box {
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    color: #998E78;
+}
+
+.col-item-promo-price {
+    margin-right: 10px;
+    text-decoration: line-through;
+}
+
+.new-col-but {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 66px;
+}

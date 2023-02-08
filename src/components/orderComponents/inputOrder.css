@@ -1,0 +1,44 @@
+.result-order {
+    margin: 100px 0px 0px 200px;
+    width: 260px;
+}
+
+.result-order-title {
+    font-size: 25px;
+}
+
+.result-order-cont {
+    margin-top: 10px;
+}
+
+.result-order-name-cont,
+.result-order-products-cont,
+.result-order-cost-cont {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.result-order-products-cont {
+    margin-left: 15px;
+}
+
+.result-order-cost-cont {
+    padding: 15px 20px;
+    background-color: #F1EADC;
+}
+
+.result-order-button-cont {
+    width: 100%;
+}
+
+.result-order-button {
+    width: 100%;
+    height: 56px;
+    margin-top: 50px;
+    color: white;
+    background-color: #6E9C9F;
+    border: none;
+    cursor: pointer;
+
+}

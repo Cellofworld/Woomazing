@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/Raleway-Regular.ttf") format("ttf");
+   }
+
+   :root {
+    --main-padding: 30px 100px;
+   }
+
+   body {
+    font-family: "Raleway",sans-serif;
+    font-weight: 400;
+    padding: 0px;
+    margin: 0px;
+   }
+
+   a {
+    text-decoration: none;
+   }

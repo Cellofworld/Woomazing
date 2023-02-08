@@ -1,0 +1,170 @@
+
+.product-order {
+    padding: var(--main-padding);
+}
+
+.product-order-title {
+    font-size: 50px;
+}
+
+.product-order-item-cont {
+    margin-top: 50px;
+    display: flex;
+}
+
+.product-order-info {
+    margin-left: 50px;
+}
+
+.product-order-img {
+    width: 536px;
+    height: 729px;
+}
+
+.product-order-cost {
+    display: flex;
+    font-size: 40px;
+}
+
+.product-order-old-cost {
+    margin-left: 20px;
+    color: #9C9C9C;
+    text-decoration: line-through;
+}
+
+.choice-size {
+    margin-top: 60px;
+}
+
+.choice-size-title {
+    font-size: 20px;
+}
+
+.choice-size-cont {
+    margin-top: 40px;
+    display: flex;
+}
+
+.size {
+    width: 41px;
+    height: 41px;
+    border: 1px solid black;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 14px;
+    cursor: pointer;
+}
+
+.size:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.size-active {
+    width: 41px;
+    height: 41px;
+    border: 1px solid black;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 14px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.choice-color {
+    margin-top: 60px;
+}
+
+.choce-color-title {
+    font-size: 20px;
+}
+
+.choice-color-cont {
+    margin-top: 34px;
+    display: flex;
+}
+
+.color {
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.color:hover {
+    border: 2px solid black;
+    width: 37px;
+    height: 37px;
+}
+
+.color-active {
+    cursor: pointer;
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.add-to-cart-cont {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.choice-quantity {
+    width: 50px;
+    height: 50px;
+    margin: 0px 10px 0px 0px;
+}
+
+.add-cart-button {
+    width: 268px;
+    height: 56px;
+    color:white;
+    background-color: #6E9C9F;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.related-product {
+    margin-top: 160px;
+}
+
+.related-product-title {
+    font-size: 40px;
+}
+
+.related-product-items-cont {
+    margin-top: 60px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.related-product-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+.related-product-img {
+    width: 350px;
+    height: 480px;
+}
+
+.related-product-name {
+    margin-top: 24px;
+    font-size: 20px;
+    color: black;
+}
+
+.related-product-cost {
+    color: #998E78;
+    font-size: 15px;
+}

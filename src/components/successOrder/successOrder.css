@@ -1,0 +1,50 @@
+
+
+.success-order-page {
+    padding: var(--main-padding);
+}
+
+.success-order-title {
+    font-size: 50px;
+}
+
+.success-order-cont {
+    display: flex;
+}
+
+.success-order {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.success-order-description-cont {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.success-order-description {
+    font-size: 25px;
+}
+
+
+.success-order-button-cont {
+    width: 300px;
+    height: 70px;
+}
+
+
+.success-order-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    width: 300px;
+    height: 56px;
+    color: white;
+    background-color: #6E9C9F;
+    border: none;
+}

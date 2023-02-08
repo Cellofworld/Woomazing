@@ -1,0 +1,13 @@
+
+.making-order {
+    padding: var(--main-padding);
+}
+
+.making-order-title {
+    font-size: 50px;
+}
+
+.making-order-cont {
+    display: flex;
+
+}
